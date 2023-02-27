@@ -1,0 +1,8 @@
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\Aprovado_Reprovado.exe.config
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\Aprovado_Reprovado.exe
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\Aprovado_Reprovado.pdb
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\Aprovado_Reprovado.csproj.AssemblyReference.cache
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\Aprovado_Reprovado.csproj.SuggestedBindingRedirects.cache
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\Aprovado_Reprovado.csproj.CoreCompileInputs.cache
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\Aprovado_Reprovado.exe
+C:\curso\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\Aprovado_Reprovado.pdb
